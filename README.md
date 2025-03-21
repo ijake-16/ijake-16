@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=jake16)](https://solved.ac/jake16)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ijake-16&layout=compact" alt="Top Langs" height="170px" />
+
 <!--
 **ijake-16/ijake-16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
